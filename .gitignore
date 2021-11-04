@@ -127,8 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 *.csv
 *.tfrecord
 
 *.tar
 *.pdf
+=======
+*.tar
+*.csv
+>>>>>>> 03d9d22... Testing CI/CD pipelines

@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/usr/local/Caskroom/miniconda/base/envs/mlep-w1-lab/bin/python",
+    "jupyter.jupyterServerType": "local"
+}
